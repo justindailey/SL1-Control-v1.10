@@ -1,0 +1,98 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/include",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/src",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/SoftwareSerial",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ImageReader Library",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit EPD/src",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit SPIFlash/src",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/SdFat - Adafruit Fork/src",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ILI9341",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ADS1X15",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/LiquidCrystal_I2C",
+                "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/DHT sensor library",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit Unified Sensor",
+                "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/variants/mega",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit HX8357 Library",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit NeoPixel",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit SSD1351 library",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ST7735 and ST7789 Library",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit STMPE610",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit TouchScreen",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit seesaw Library",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/DueFlashStorage/src",
+                "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/SD",
+                "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/include",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/src",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/SoftwareSerial",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ImageReader Library",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit EPD/src",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit SPIFlash/src",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/SdFat - Adafruit Fork/src",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ILI9341",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ADS1X15",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                    "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/LiquidCrystal_I2C",
+                    "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/DHT sensor library",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit Unified Sensor",
+                    "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit HX8357 Library",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit NeoPixel",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit SSD1351 library",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit ST7735 and ST7789 Library",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit STMPE610",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit TouchScreen",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/Adafruit seesaw Library",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/DueFlashStorage/src",
+                    "c:/Users/JustinDailey/RBL/Engineering - General/PlatformIO/SL1 Controller/SL1 Control v1.00/.pio/libdeps/megaatmega2560/SD",
+                    "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/JustinDailey/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60001",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/JustinDailey/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
